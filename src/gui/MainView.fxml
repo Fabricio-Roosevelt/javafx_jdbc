@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 
 
-<AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/17.0.7">
+<AnchorPane prefHeight="600.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/17.0.7">
    <children>
       <Button layoutX="169.0" layoutY="138.0" mnemonicParsing="false" text="Button" />
       <Label layoutX="182.0" layoutY="108.0" text="Click" />
